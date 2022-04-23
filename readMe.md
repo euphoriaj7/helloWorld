@@ -6,7 +6,7 @@ The software that I am going to be using is Visual Studio Code with the language
 
 The purpose for me in using this software to show how python works.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
+{Here is a link of my software demo here.}
 
 [Software Demo Video](https://youtu.be/gm2OSwac3Ao)
 
@@ -18,6 +18,6 @@ The purpose for me in using this software to show how python works.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
+{Here are a list of helpful websites I used on the project}
 * [Visual Studio Code & GitHub](https://github.com/)
 * [Web Site Name](https://www.python.org/)
